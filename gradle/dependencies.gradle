@@ -1,0 +1,17 @@
+ext {
+    libraries = [:]
+}
+
+libraries.tools = [
+        'org.projectlombok:lombok:1.18.10',
+        'org.springframework:spring-context-support'
+]
+
+libraries.database = [
+        'org.postgresql:postgresql',
+        'org.flywaydb:flyway-core:6.0.7'
+]
+
+libraries.annotations = [
+        "org.projectlombok:lombok:1.18.10"
+]
