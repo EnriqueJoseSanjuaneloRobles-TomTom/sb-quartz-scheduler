@@ -1,0 +1,27 @@
+= My Service
+Platform MVP Development Team - A Service Document
+
+:doctype: book,
+:toc: left,
+:toclevels: 3,
+:doc-id: MyService
+:revnumber: 1.0
+:classification: For internal use
+:revstatus: Approved
+:numbered!:
+== Document Information
+
+|===
+| *Document ID*    | {doc-id}
+| *Title*          | {doctitle}
+| *Version*        | {revnumber}
+| *Status*         | {revstatus}
+| *Author*         | {authors}
+| *Classification* | {classification}
+|===
+
+:numbered:
+
+include::intro.adoc[]
+
+include::gettingstarted.adoc[]
